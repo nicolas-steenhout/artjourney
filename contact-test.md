@@ -7,7 +7,7 @@ Testing Basin forms for contact.
 
 <form action="https://usebasin.com/f/f369a9edd4dd"  method="POST">
     <label for="name" autocomplete="on">Name:</label>
-    <input type="text" id="name" name="name">
+    <input type="text" id="name" name="name" required>
      <label for="email" autocomplete="on">Email (required):</label>
    <input type="email" id="email" name="email" aria-required="true">
     <label for="msg">Message:</label>
