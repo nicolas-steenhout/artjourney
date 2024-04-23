@@ -30,3 +30,56 @@ Testing Basin forms for contact.
     
     <input type="submit" value="Submit" />
 </form>
+<script>
+document.getElementById('contactForm').addEventListener('submit', function(event) {
+    event.preventDefault();
+    let isValid = true;
+    clearErrors();
+
+    // Validate Name
+    let name = this.name.value.trim();
+    if (!name) {
+        showError('nameError', 'Name is required.');
+        isValid = false;
+    }
+
+    // Validate Email
+    let email = this.email.value.trim();
+    if (!email) {
+        showError('emailError', 'Email is required.');
+        isValid = false;
+    } else if (!/\S+@\S+\.\S+/.test(email)) {
+        showError('emailError', 'Please enter a valid email address.');
+        isValid = false;
+    }
+
+    // Validate Message
+    let message = this.msg.value.trim();
+    if (!message) {
+        showError('msgError', 'Message cannot be empty.');
+        isValid = false;
+    }
+
+    if (isValid) {
+        this.submit();
+    }
+});
+
+function showError(id, message) {
+    let errorDiv = document.getElementById(id);
+    errorDiv.textContent = message;
+    errorDiv.style.display = 'block';
+}
+
+function clearErrors() {
+    document.querySelectorAll('.error').forEach(function(errorDiv) {
+        errorDiv.textContent = '';
+        errorDiv.style.display = 'none';
+    });
+}
+</script>
+<style>
+.error {
+    color: red;
+}
+</style>
