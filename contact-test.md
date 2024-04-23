@@ -17,7 +17,7 @@ Testing Basin forms for contact.
 
 ## Form suggested by Basin (using ChatGPT)
 
-<form id="contactform" action="https://usebasin.com/f/f369a9edd4dd" method="POST" novalidate>
+<form id="contactform" action="https://usebasin.com/f/f369a9edd4dd" method="POST">
     <label for="name">Name:</label>
     <input type="text" id="name" name="name" required autocomplete="name" placeholder="Enter your full name" />
     
