@@ -11,6 +11,6 @@ Testing Basin forms for contact.
      <label for="email" autocomplete="on">Email (required):</label>
    <input type="email" id="email" name="email" aria-required="true">
     <label for="msg">Message:</label>
-    <textarea id="msg" name="msg" rows="5" cols="20">
+    <textarea id="msg" name="msg" rows="5" cols="20"></textarea>
    <input type="submit" value="Submit">
 </form>
