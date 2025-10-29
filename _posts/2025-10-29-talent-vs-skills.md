@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Skills vs Talen
+title: Skills vs Talent
 tag: Thoughts
 ---
 
@@ -11,7 +11,7 @@ There are very few "talented" artists. Some are geniuses and art comes easy to t
 To imply we are talented erases all the hours of practice we're putting in.
 
 To not go ahead with practice because you find yourself not talented is doing yourself a disservice. It's not about talent. It's about skills building. 
-## More tips and tricks
+## More Thoughts
 
   {% for tag in page.tags %}
   <a class="post" href="/tag/{{tag}}">Other posts with the #{{tag}} tag</a>{% unless forloop.last %}, {% endunless %}
