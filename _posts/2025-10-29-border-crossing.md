@@ -6,7 +6,7 @@ tags: Urban
 
 This is one of my quick on-location series. The line up at the border crossing was very slow to progress. I had time to leave the car in park and quickly sketch my surroundings. Buildings, cars, etc.
 
-![Line and wash sketch. The back of a small car with people in it viewed through the rear window. In front of the car is the back of a trailer RV. A white pickup truck is trying to get in front of the RV from the right. In the midground is the border control, with two closed gates with red signs about them, and one open gate with green sign about it. Some traffic cones are creating lines to follow. A mountain in the distance with a grey sky full of menacing clouds.](/images/IMG_8179.JPG)
+![Line and wash sketch. The back of a small car with people in it viewed through the rear window. In front of the car is the back of a trailer RV. A white pickup truck is trying to get in front of the RV from the right. In the midground is the border control, with two closed gates with red signs about them, and one open gate with green sign about it. Some traffic cones are creating lines to follow. A mountain in the distance with a grey sky full of menacing clouds.](/images/border-crossing.jpg)
 
 
 ## Other Urban Sketches
