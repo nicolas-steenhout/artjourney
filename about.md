@@ -20,6 +20,10 @@ Life got in the way and I had a nearly year long break, but it wasn't due to poo
 
 I *still* think my work isn't what I want it to be. I still think I'm failing more than succeeding. But as I said earlier, it's about the process more than the finished result, a lot of the time. And since many people I show my sketches to seem to think they are all right, I'm learning to be less harsh on myself, even if the impostor syndrome is strong!
 
+## About the posts
+
+I'm starting this art journey blog in 2025. But you'll see entries going back much further than that - I'm just going to add older pieces I've made, and date the entries to the date it was made.
+
 ## Contact me
 
 [Nicolas-steenhout.com contact details](https://nicolas-steenhout.com/contact/)
