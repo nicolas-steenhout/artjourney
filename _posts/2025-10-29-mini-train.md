@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quick one at border crossing
+title: Quick one while waiting for take out
 tags: Urban Location
 ---
 
