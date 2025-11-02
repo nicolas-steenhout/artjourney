@@ -285,7 +285,7 @@ nav {
   margin-block: 1em;
 
   > .post {
-    border: 3px dashed lighten($foreground, 80%);
+    border: 3px solid lighten($foreground, 80%);
   }
 
   .post {
