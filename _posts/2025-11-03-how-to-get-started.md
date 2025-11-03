@@ -4,15 +4,15 @@ title: How to get started?
 tags: Thoughts
 ---
 
-I've been asked tips and hints on how to get started with sketching. While I'm far from an expert, here are some things I wish I'd known earlier on.
+I've been asked for tips and hints on how to get started with sketching. While I'm far from an expert, here are some things I wish I'd known earlier on.
 
 ![Line and wash sketches.Two pages in a sketchbook. The image on the left is of a church and was the homework for Day 2 of a course. The images on the right are the same image, done differently. There are many hand written notes about what kind of pen, ink, and watercolor used.](/images/day2-day3.jpg)
 
-These sketches are the homework for Day 2 and Day3 of a free course by Toby Sketchloose. I took his free course when I started sketching again after a hyatus. Well worth it!
+These sketches are the homework for Day 2 and Day 3 of a free course by Toby Sketchloose. I took his free course when I started sketching again after a hyatus. Well worth it!
 
 ## Random thoughts
 
-Build your drawing skills. Even if you don't have any. Especially if you don't have any. The base drawing is the foundation of your sketch, whether you do it in pencil or ink or straight in watercolor. A shoddy foundation means a sketch that won't look right.
+Build your drawing [skills](https://artjourney.nicolas-steenhout.com/talent-vs-skills/). Even if you don't have any. Especially if you don't have any. The base drawing is the foundation of your sketch, whether you do it in pencil or ink or straight in watercolor. A shoddy foundation means a sketch that won't look right.
 
 I know that working on perspective and proportions will improve my sketches. I'm not as bad as I was, but I have a long way to go still.
 
