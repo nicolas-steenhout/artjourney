@@ -83,7 +83,7 @@ I started with and used a [Winsor Newton Cotman sketcher pocket set](https://www
 
 **You do not need a million colors**. It's tempting to buy all the colors. Yes it is. But you want to avoid GAS - Gear Acquisition Syndrome. You're better off starting with a dozen colors and learn to mix them than go with 24, 36, or even more colors.
 
-If you buy a premade set, like the Cotman sketcher pocket set, you'll have the basics. It's a "split primary", with a few colors. Primary colors are red, yellow, and blue (well, it's not exactly that but you can think of it that way). Colors come in "cold" and "warm" (this is a whole other topic I'm not going to explore for now, just take my word for it, and look it up if you want more info). So a split primary means you get one each of a warm and a cold yellow, red, and blue. Then you can add some earth towns (beige, brown, etc). You might have "convenience" colors - like greens.
+If you buy a premade set, like the Cotman sketcher pocket set, you'll have the basics. It's a "split primary", with a few colors. Primary colors are red, yellow, and blue (well, it's not exactly that but you can think of it that way). Colors come in "cold" and "warm" (this is a whole other topic I'm not going to explore for now, just take my word for it, and look it up if you want more info). So a split primary means you get one each of a warm and a cold yellow, red, and blue. Then you can add some earth tones (beige, brown, etc). You might have "convenience" colors - like greens.
 
 In theory, you could mix all the colors with a yellow, a red, and a blue!
 
