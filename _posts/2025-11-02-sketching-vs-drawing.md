@@ -12,7 +12,7 @@ Understanding the difference can help you appreciate the creative process, and h
 
 Drawing is the foundation of all visual arts. Well... Not photography! But, you know what I mean. It's the fundamental act of making marks on a surface to create shapes, lines, and forms. Drawing is a bit like a skeleton: The essential structure that supports everything else. It's the basic skill of translating what you see or imagine onto paper. 
 
-Drawing can be meticulousl detailed, and time-consuming. You ight spend hours eprfecting a single drawing carefully rendering every shadow, texture, and proportion.
+Drawing can be meticulously detailed, and time-consuming. You might spend hours perfecting a single drawing carefully rendering every shadow, texture, and proportion.
 
 Sketching, on the other hand, is a specific type of drawing that emphasizes speed, spontaneity, and exploration. A sketch is typically rough, loose, and created quickly to capture an idea, composition, or moment. 
 
