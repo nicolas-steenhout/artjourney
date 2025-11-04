@@ -16,7 +16,7 @@ But this just... Works. It's small. All contained. I can grab it on the way out 
 
 I'm still playing with configuration - what am I actually going to have and carry with me. I'm aiming for small. I'm also not hoping to work on large sketches. Here's what I have for now:
 
-* A watercolor palette. This one is from Art Toolkit. It's their "Pocket Palette". It's 1/4" thick, and 3 5/8" x 2 1/4". I currently have 16 colors in it, but I'm going to change that in the near future. It's too many colors for what I'm using this for. Limited palette will be better. But that'll be the topic of another post
+* A watercolor palette. This one is from Art Toolkit. It's their "Pocket Palette". It's 1/4" thick, and 3 5/8" x 2 1/4". I currently have 16 colors in it, but I'm going to change that in the near future. It's way too many colors for what I'm using it for. Limited palette will be better. But that'll be the topic of another post
 * A mister. A small spray bottle I can use to spray the colors in the palette to rewet them.
 * 2 magnetic clips. These are intended to be fridge magnets, but they are good to keep the sketchbook open, and snap the palette onto.
 * 3 waterbrushes. 2 by Pentel, and one random one that has a flat head. I'm thinking of limiting this to only 1. The large one by Pentel.
@@ -28,6 +28,15 @@ I'm still playing with configuration - what am I actually going to have and carr
 I've got this Stillman &amp; Birn Beta series small softcover A6 portrait sketchbook. I haven't opened it yet but it's the only small sketchbook that fits well in the cover. I was disappointed that the sketchbook I really wanted to use was too big for it. I couldn't close the cover properly. 
 
 But since I started in the sketchbook I really wanted, a Hahnem&uuml;hle A6 portrait 100% cotton watercolor book, I'm going to keep going. I'll just carry them separately for now. I'm going to finish that sketchbook before opening the other one. Because I need to force myself to finish sketchbooks! Especially when the paper is so nice.
+
+## Some sketches done with this kit
+
+The following sketches are a few ones I've done since getting this kit. These are done in the Hahnem&uuml;hle 100% cotton sketchbook
+
+* [First quick one - tree](https://artjourney.nicolas-steenhout.com/trees/)
+* [Good life](https://artjourney.nicolas-steenhout.com/good-life/)
+* [Quick one at border crossing](https://artjourney.nicolas-steenhout.com/border-crossing/)
+* [Quick one while waiting for take out](https://artjourney.nicolas-steenhout.com/border-crossing/)
 
 ## Time will tell
 
