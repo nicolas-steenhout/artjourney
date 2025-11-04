@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My portable sketching kit - Art Toolkit
-tags: Thoughts
+tags: Thoughts Gear
 ---
 
 This is my "ultra portable" sketching kit that I've been using for a couple weeks. Ok, so there's smaller out there. But this is pretty limited. And darn good so far!
