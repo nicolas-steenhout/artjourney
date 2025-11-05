@@ -8,6 +8,8 @@ When is urban sketching, urban sketching? Opinions varry, a lot. Here's my take.
 
 ![Line and wash sketch. Memorial Church Russian Orthodox Saint Job, in Brussels, Belgium.](/images/church-uccle.jpg)
 
+This sketch doesn't qualify as Urban sketching. Because I've done it from a photo I took.
+
 "Urban sketching" as a named thing started in 2007. Gabriel Campanario started it.
 
 The [Urban Sketchers](https://urbansketchers.org/) homepage states:
