@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quick one at border crossing
-tags: Urban Location
+tags: Urban Location Sketches
 ---
 
 This is one of my quick on-location series. The line up at the border crossing was very slow to progress. I had time to leave the car in park and quickly sketch my surroundings. Buildings, cars, etc.

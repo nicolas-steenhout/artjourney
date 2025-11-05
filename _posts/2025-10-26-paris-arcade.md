@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An arcade in Paris
-tags: Urban 
+tags: Urban Sketches
 ---
 
 I did this one from a photo I took in Paris, waaaay back in 2010! 

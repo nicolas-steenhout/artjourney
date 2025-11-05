@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ice cream cone
-tags: Urban 
+tags: Urban Sketches
 ---
 
 I considered calling this one "Hands are hard"...

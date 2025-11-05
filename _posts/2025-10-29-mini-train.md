@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quick one while waiting for take out
-tags: Urban Location
+tags: Urban Location Sketches
 ---
 
 Track inspection car I sketched while waiting for take out. It was right around sunset on a cloudy day, so I was losing light quickly.

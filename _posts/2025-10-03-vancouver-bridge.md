@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A bridge in Vancouver, BC
-tags: Urban Location
+tags: Urban Location Sketches
 ---
 
 First, and hopefully not last, outing with Urban Sketchers Vancouver. We did a sketch walk that afternoon. I spent about 40 minutes on this sketch, while chatting with other people.

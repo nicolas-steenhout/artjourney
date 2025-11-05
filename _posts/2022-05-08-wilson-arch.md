@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Wilson's Arch
-tags: Urban 
+tags: Urban Sketches
+
 ---
 
 Crossing Utah, we came across Wilson's Arch. A huge sandstone arch. Took photos. Sketched it years later!
