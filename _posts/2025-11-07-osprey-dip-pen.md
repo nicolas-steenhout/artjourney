@@ -14,7 +14,7 @@ I learned a lot, and it was fun.
 
 This image is a composite between a couple photos of mine: The osprey, and the sunflowers. And imagination - all the rest.
 
-I'm actually happy with it. It's far from perfect, but it looks all right and it tells me I'm starting to "click" with dip pens and ink.
+I'm actually happy with it. It's far from perfect, but it looks all right and it tells me I'm starting to "click" with dip pens and ink. Also, I think adding a touch of color was a nice thought!
 
 ## Other Ink drawings
 
