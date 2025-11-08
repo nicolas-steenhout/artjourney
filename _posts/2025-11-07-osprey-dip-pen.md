@@ -8,7 +8,7 @@ One of the media that's intrigued me is dip pen and ink. Here's my first semi-se
 
 ![Ink drawing. An Osprey on a fence post. To the right of the osprey are large sunflowers. In the background, low mountaints. There are clouds in the sky.](/images/osprey-dip-pen.jpg)
 
-I did this as part of the final project for a course by [Chloe Gendron](). Originally found her on YouTube. I like her approach. And she had a free coupon for her course on Skillshare.
+I did this as part of the final project for a course by [Chloe Gendron](https://longstrideillustration.com/). Originally found her on YouTube. I like her approach. And she had a free coupon for her course on Skillshare.
 
 I learned a lot, and it was fun. 
 
