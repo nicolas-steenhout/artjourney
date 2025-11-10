@@ -6,7 +6,7 @@ tags: Urban Sketches
 
 Squeezed two small sketches on the same page on my errands yesterday. Happy with those.
 
-![Line and wash sketch. ](/images/2-sketches.jpg)
+![Line and wash sketch. Sketch of a yellow fire hydrant with a red top, and a wooden rail fence in the background. A different sketch on the bottom left is that of an old tree with gnarled branches and orange leaves.](/images/2-sketches.jpg)
 
 Spotted fire hydrants, and one of them had a safe spot to stop to sketch it. 
 
