@@ -1,6 +1,6 @@
 ---
 layout: post
-title: So many topics to improveÍ
+title: So many topics to improve
 tags: Thoughts Sketches
 ---
 
