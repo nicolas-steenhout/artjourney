@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quick one at the doctor's
-tags: Urban Sketches
+tags: Urban Location Sketches
 ---
 
 I twiddled my thumbs at the doctor's office. What better way to pass the time than to sketch?
