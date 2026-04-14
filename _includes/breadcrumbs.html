@@ -1,0 +1,33 @@
+{% unless page.url == "/" %}
+<nav aria-label="Breadcrumb" class="breadcrumb-nav">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item">
+      <a href="{{ site.baseurl }}/">Home</a>
+    </li>
+    
+    {% assign crumbs = page.url | split: '/' %}
+    {% assign crumb_path = '' %}
+    
+    {% for crumb in crumbs offset: 1 %}
+      {% if crumb != '' %}
+        {% assign crumb_path = crumb_path | append: '/' | append: crumb %}
+        {% assign is_last = forloop.last %}
+        
+        <li class="breadcrumb-item{% if is_last %} active{% endif %}"{% if is_last %} aria-current="page"{% endif %}>
+          {% if is_last %}
+            {% if page.title %}
+              {{ page.title }}
+            {% else %}
+              {{ crumb | replace: '-', ' ' | replace: '_', ' ' | capitalize }}
+            {% endif %}
+          {% else %}
+            <a href="{{ site.baseurl }}{{ crumb_path }}">
+              {{ crumb | replace: '-', ' ' | replace: '_', ' ' | capitalize }}
+            </a>
+          {% endif %}
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ol>
+</nav>
+{% endunless %}
