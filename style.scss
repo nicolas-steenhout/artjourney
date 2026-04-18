@@ -195,10 +195,13 @@ input {
   flex-direction: column;
   align-items: center;
 
+  .nav {
+    margin-block-end: 1.3em;
+    border-block: 1px solid lighten($foreground, 50%);
+  }
+
   nav {
     width: 100%;
-    margin-block-end: 3em;
-    border-block: 1px solid lighten($foreground, 50%);
     padding-block: 1.5em;
 
     ul {
@@ -506,8 +509,7 @@ footer {
 }
 /* BREADCRUMB STYLING */
 .breadcrumb-nav {
-  padding: 0.5rem 0;
-  border-bottom: 1px solid #e9ecef;
+  padding: 0;
 }
 
 .breadcrumb {
@@ -516,9 +518,8 @@ footer {
   padding: 0;
   margin: 0;
   list-style: none;
-  max-width: 1200px;
+  max-width: 100%;
   margin: 0 auto;
-  padding: 0 1rem;
 }
 
 .breadcrumb-item {
