@@ -3,26 +3,25 @@
 // VARIABLES
 //
 
-$primary: #054a03; // dark green
-$secondary: #0A6AE8; // blue
+$primary: light-dark(#054a03,#C1E1C1); // dark - light green
+$secondary: light-dark(#0056b3, #A6C8F0); // darkish - light blue
 $tertiary: #E4B122;
 $background: #dedfda;
 $foreground: #000;
 
 // Colors
-$blue: $secondary;
 $blueLight: #A6C8F0;
 $blueDark: #1D182F;
 $red: #C70038;
 $redLight: #FF615E;
 $yellowLight: #FFEC8F;
+$purple: light-dark(#534970, #B1A6BC);
 
 // Grays
 $black: #000;
 $darkerGray: #222;
 $darkGray: #333;
-$gray: #666;
-$lightGray: #eee;
+$gray: light-dark(#5C636A, #ddd);
 $white: #fff;
 
 // Font stacks

@@ -14,6 +14,10 @@
 /**************/
 
 
+:root {
+  color-scheme: light dark;
+}
+
 body {
 	background-color: $background;
   font-family: $proxima;
@@ -489,9 +493,7 @@ footer {
     }
   }
 
-  .wrapper-footer {
-    background: linear-gradient($blueDark 20%, $red 10%, $blue);
-  }
+
   footer {
     ul {
       li {
@@ -510,6 +512,8 @@ footer {
 /* BREADCRUMB STYLING */
 .breadcrumb-nav {
   padding: 0;
+  font-family: "Cabin", sans-serif;
+  font-weight: 300;
 }
 
 .breadcrumb {
@@ -528,21 +532,23 @@ footer {
 }
 
 .breadcrumb-item + .breadcrumb-item::before {
-  content: "/";
-  padding: 0 0.5rem;
-  color: #6c757d;
+  content: "🖌️";
+  padding: 0 1.1rem;
+  color: $gray;
+  font-size: .75em;
 }
 
 .breadcrumb-item a {
-  color: #054a03;
-  text-decoration: none;
+  color: $purple;
 }
 
 .breadcrumb-item a:hover {
-  color: #0056b3;
+  color: $secondary;
   text-decoration: underline;
 }
 
 .breadcrumb-item.active {
-  color: #5C636A;
+  color: $gray;
+  font-style: italic;
+  letter-spacing: .075rem;
 }
